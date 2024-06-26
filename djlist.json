@@ -7,7 +7,7 @@
       "end_hour": 22,
       "end_minute": 0,
       "logo_url": "https://raw.githubusercontent.com/KrazenLabs/cloud-cuddle-club/main/logos/schlick.png",
-      "theme_colors": ["#FF5733", "#C70039", "#900C3F", "#581845"]
+      "theme_colors": ["#F60000", "#C403B9"]
     },
     {
       "dj_name": "Electro",
@@ -16,7 +16,7 @@
       "end_hour": 23,
       "end_minute": 0,
       "logo_url": "https://raw.githubusercontent.com/KrazenLabs/cloud-cuddle-club/main/logos/electro.png",
-      "theme_colors": ["#DAF7A6", "#FFC300", "#FF5733"]
+      "theme_colors": ["#FBFF4C", "#ACACAC"]
     },
     {
       "dj_name": "Sasithya",
@@ -25,7 +25,7 @@
       "end_hour": 1,
       "end_minute": 0,
       "logo_url": "https://raw.githubusercontent.com/KrazenLabs/cloud-cuddle-club/main/logos/sasithya.png",
-      "theme_colors": ["#DAF7A6", "#FFC300", "#FF5733"]
+      "theme_colors": ["#1054A5", "#622A75", "#C46C3C", "78A741"]
     },
     {
       "dj_name": "Dax",
@@ -34,7 +34,7 @@
       "end_hour": 1,
       "end_minute": 0,
       "logo_url": "http://example.com/dj_another_logo.png",
-      "theme_colors": ["#DAF7A6", "#FFC300", "#FF5733"]
+      "theme_colors": ["#FFFFFF"]
     },
     {
       "dj_name": "Monty!",
@@ -43,7 +43,7 @@
       "end_hour": 2,
       "end_minute": 0,
       "logo_url": "http://example.com/dj_another_logo.png",
-      "theme_colors": ["#DAF7A6", "#FFC300", "#FF5733"]
+      "theme_colors": ["#FFFFFF"]
     },
     {
       "dj_name": "Nimble Weave",
@@ -52,7 +52,7 @@
       "end_hour": 3,
       "end_minute": 0,
       "logo_url": "http://example.com/dj_another_logo.png",
-      "theme_colors": ["#DAF7A6", "#FFC300", "#FF5733"]
+      "theme_colors": ["#FFFFFF"]
     },
     {
       "dj_name": "Dev",
@@ -61,7 +61,7 @@
       "end_hour": 4,
       "end_minute": 0,
       "logo_url": "https://raw.githubusercontent.com/KrazenLabs/cloud-cuddle-club/main/logos/dev.png",
-      "theme_colors": ["#DAF7A6", "#FFC300", "#FF5733"]
+      "theme_colors": ["#BC0B0B", "#000000", "#FFFFFF"]
     },
     {
       "dj_name": "Dracorean",
@@ -70,7 +70,7 @@
       "end_hour": 5,
       "end_minute": 0,
       "logo_url": "http://example.com/dj_another_logo.png",
-      "theme_colors": ["#DAF7A6", "#FFC300", "#FF5733"]
+      "theme_colors": ["#FFFFFF"]
     },
     {
       "dj_name": "Kima",
@@ -79,7 +79,7 @@
       "end_hour": 6,
       "end_minute": 0,
       "logo_url": "https://raw.githubusercontent.com/KrazenLabs/cloud-cuddle-club/main/logos/kima.png",
-      "theme_colors": ["#DAF7A6", "#FFC300", "#FF5733"]
+      "theme_colors": ["#FF2F00", "#FFFF00", "#11FF00", "#0015FF"]
     },
     {
       "dj_name": "DJ Sundra",
@@ -88,7 +88,7 @@
       "end_hour": 7,
       "end_minute": 0,
       "logo_url": "https://raw.githubusercontent.com/KrazenLabs/cloud-cuddle-club/main/logos/sundra.png",
-      "theme_colors": ["#DAF7A6", "#FFC300", "#FF5733"]
+      "theme_colors": ["#04A4E9"]
     },
     {
       "dj_name": "Strawberry Protato",
@@ -97,7 +97,7 @@
       "end_hour": 8,
       "end_minute": 0,
       "logo_url": "https://raw.githubusercontent.com/KrazenLabs/cloud-cuddle-club/main/logos/strawberry.png",
-      "theme_colors": ["#DAF7A6", "#FFC300", "#FF5733"]
+      "theme_colors": ["#D700A3", "#2064E1", "#2CDD2C"]
     },
     {
       "dj_name": "DJ Tsiran",
@@ -106,7 +106,7 @@
       "end_hour": 9,
       "end_minute": 0,
       "logo_url": "http://example.com/dj_another_logo.png",
-      "theme_colors": ["#DAF7A6", "#FFC300", "#FF5733"]
+      "theme_colors": ["#FFFFFF"]
     }
   ]
 }
