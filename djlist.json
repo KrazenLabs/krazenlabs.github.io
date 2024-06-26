@@ -1,0 +1,112 @@
+{
+  "dj_schedule": [
+    {
+      "dj_name": "Schlick",
+      "start_hour": 21,
+      "start_minute": 0,
+      "end_hour": 22,
+      "end_minute": 0,
+      "logo_url": "http://example.com/dj_logo.png",
+      "theme_colors": ["#FF5733", "#C70039", "#900C3F", "#581845"]
+    },
+    {
+      "dj_name": "Electro",
+      "start_hour": 22,
+      "start_minute": 0,
+      "end_hour": 23,
+      "end_minute": 0,
+      "logo_url": "http://example.com/dj_another_logo.png",
+      "theme_colors": ["#DAF7A6", "#FFC300", "#FF5733"]
+    },
+    {
+      "dj_name": "Sasithya",
+      "start_hour": 23,
+      "start_minute": 0,
+      "end_hour": 1,
+      "end_minute": 0,
+      "logo_url": "http://example.com/dj_another_logo.png",
+      "theme_colors": ["#DAF7A6", "#FFC300", "#FF5733"]
+    },
+    {
+      "dj_name": "Dax",
+      "start_hour": 0,
+      "start_minute": 0,
+      "end_hour": 1,
+      "end_minute": 0,
+      "logo_url": "http://example.com/dj_another_logo.png",
+      "theme_colors": ["#DAF7A6", "#FFC300", "#FF5733"]
+    },
+    {
+      "dj_name": "Monty!",
+      "start_hour": 1,
+      "start_minute": 0,
+      "end_hour": 2,
+      "end_minute": 0,
+      "logo_url": "http://example.com/dj_another_logo.png",
+      "theme_colors": ["#DAF7A6", "#FFC300", "#FF5733"]
+    },
+    {
+      "dj_name": "Nimble Weave",
+      "start_hour": 2,
+      "start_minute": 0,
+      "end_hour": 3,
+      "end_minute": 0,
+      "logo_url": "http://example.com/dj_another_logo.png",
+      "theme_colors": ["#DAF7A6", "#FFC300", "#FF5733"]
+    },
+    {
+      "dj_name": "Dev",
+      "start_hour": 3,
+      "start_minute": 0,
+      "end_hour": 4,
+      "end_minute": 0,
+      "logo_url": "http://example.com/dj_another_logo.png",
+      "theme_colors": ["#DAF7A6", "#FFC300", "#FF5733"]
+    },
+    {
+      "dj_name": "Dracorean",
+      "start_hour": 4,
+      "start_minute": 0,
+      "end_hour": 5,
+      "end_minute": 0,
+      "logo_url": "http://example.com/dj_another_logo.png",
+      "theme_colors": ["#DAF7A6", "#FFC300", "#FF5733"]
+    },
+    {
+      "dj_name": "Kima",
+      "start_hour": 5,
+      "start_minute": 0,
+      "end_hour": 6,
+      "end_minute": 0,
+      "logo_url": "http://example.com/dj_another_logo.png",
+      "theme_colors": ["#DAF7A6", "#FFC300", "#FF5733"]
+    },
+    {
+      "dj_name": "DJ Sundra",
+      "start_hour": 6,
+      "start_minute": 0,
+      "end_hour": 7,
+      "end_minute": 0,
+      "logo_url": "http://example.com/dj_another_logo.png",
+      "theme_colors": ["#DAF7A6", "#FFC300", "#FF5733"]
+    },
+    {
+      "dj_name": "Strawberry Protato",
+      "start_hour": 7,
+      "start_minute": 0,
+      "end_hour": 8,
+      "end_minute": 0,
+      "logo_url": "http://example.com/dj_another_logo.png",
+      "theme_colors": ["#DAF7A6", "#FFC300", "#FF5733"]
+    },
+    {
+      "dj_name": "DJ Tsiran",
+      "start_hour": 8,
+      "start_minute": 0,
+      "end_hour": 9,
+      "end_minute": 0,
+      "logo_url": "http://example.com/dj_another_logo.png",
+      "theme_colors": ["#DAF7A6", "#FFC300", "#FF5733"]
+    }
+  ]
+}
