@@ -6,7 +6,7 @@
       "start_minute": 0,
       "end_hour": 22,
       "end_minute": 0,
-      "logo_url": "http://example.com/dj_logo.png",
+      "logo_url": "https://raw.githubusercontent.com/KrazenLabs/cloud-cuddle-club/main/logos/schlick.png",
       "theme_colors": ["#FF5733", "#C70039", "#900C3F", "#581845"]
     },
     {
@@ -15,7 +15,7 @@
       "start_minute": 0,
       "end_hour": 23,
       "end_minute": 0,
-      "logo_url": "http://example.com/dj_another_logo.png",
+      "logo_url": "https://raw.githubusercontent.com/KrazenLabs/cloud-cuddle-club/main/logos/electro.png",
       "theme_colors": ["#DAF7A6", "#FFC300", "#FF5733"]
     },
     {
@@ -24,7 +24,7 @@
       "start_minute": 0,
       "end_hour": 1,
       "end_minute": 0,
-      "logo_url": "http://example.com/dj_another_logo.png",
+      "logo_url": "https://raw.githubusercontent.com/KrazenLabs/cloud-cuddle-club/main/logos/sasithya.png",
       "theme_colors": ["#DAF7A6", "#FFC300", "#FF5733"]
     },
     {
@@ -60,7 +60,7 @@
       "start_minute": 0,
       "end_hour": 4,
       "end_minute": 0,
-      "logo_url": "http://example.com/dj_another_logo.png",
+      "logo_url": "https://raw.githubusercontent.com/KrazenLabs/cloud-cuddle-club/main/logos/dev.png",
       "theme_colors": ["#DAF7A6", "#FFC300", "#FF5733"]
     },
     {
@@ -78,7 +78,7 @@
       "start_minute": 0,
       "end_hour": 6,
       "end_minute": 0,
-      "logo_url": "http://example.com/dj_another_logo.png",
+      "logo_url": "https://raw.githubusercontent.com/KrazenLabs/cloud-cuddle-club/main/logos/kima.png",
       "theme_colors": ["#DAF7A6", "#FFC300", "#FF5733"]
     },
     {
@@ -87,7 +87,7 @@
       "start_minute": 0,
       "end_hour": 7,
       "end_minute": 0,
-      "logo_url": "http://example.com/dj_another_logo.png",
+      "logo_url": "https://raw.githubusercontent.com/KrazenLabs/cloud-cuddle-club/main/logos/sundra.png",
       "theme_colors": ["#DAF7A6", "#FFC300", "#FF5733"]
     },
     {
@@ -96,7 +96,7 @@
       "start_minute": 0,
       "end_hour": 8,
       "end_minute": 0,
-      "logo_url": "http://example.com/dj_another_logo.png",
+      "logo_url": "https://raw.githubusercontent.com/KrazenLabs/cloud-cuddle-club/main/logos/strawberry.png",
       "theme_colors": ["#DAF7A6", "#FFC300", "#FF5733"]
     },
     {
