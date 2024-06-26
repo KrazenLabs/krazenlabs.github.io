@@ -1,7 +1,7 @@
 {
   "dj_schedule": [
     {
-      "dj_name": "Schlick",
+      "dj_name": "SchlickTest",
       "start_hour": 21,
       "start_minute": 0,
       "end_hour": 22,
