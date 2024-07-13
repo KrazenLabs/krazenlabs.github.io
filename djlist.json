@@ -2,15 +2,15 @@
   "dj_schedule": [
     {
       "dj_name": "Schlick",
-      "start_hour": 21,
+      "start_hour": 11,
       "start_minute": 0,
-      "end_hour": 22,
+      "end_hour": 14,
       "end_minute": 0,
       "logo_url": "https://raw.githubusercontent.com/KrazenLabs/cloud-cuddle-club/main/logos/schlick.png",
       "theme_colors": ["#F60000", "#C403B9"]
     },
     {
-      "dj_name": "Electro",
+      "dj_name": "DJ Electro",
       "start_hour": 22,
       "start_minute": 0,
       "end_hour": 23,
@@ -55,7 +55,7 @@
       "theme_colors": ["#FFFFFF"]
     },
     {
-      "dj_name": "Dev",
+      "dj_name": "Devv",
       "start_hour": 3,
       "start_minute": 0,
       "end_hour": 4,
@@ -64,7 +64,7 @@
       "theme_colors": ["#BC0B0B", "#000000", "#FFFFFF"]
     },
     {
-      "dj_name": "Dracorean",
+      "dj_name": "DRAC-0",
       "start_hour": 4,
       "start_minute": 0,
       "end_hour": 5,
