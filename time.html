@@ -41,7 +41,7 @@
             display: block;
         }
 
-        input[type="datetime-local"] {
+        input[type="text"] {
             padding: 0.5em;
             font-size: 1em;
             border: 1px solid #444;
@@ -87,6 +87,8 @@
             text-decoration: underline;
         }
     </style>
+    <!-- Add Flatpickr CSS in the <head> -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flatpickr/dist/flatpickr.min.css">
 </head>
 
 <body>
@@ -96,7 +98,7 @@
 
         <div style="margin-top: 2em;">
             <label for="datetimePicker">Select Date and Time:</label>
-            <input type="datetime-local" id="datetimePicker">
+            <input type="text" id="datetimePicker" placeholder="Select Date and Time">
             <button onclick="generateURL()">Create and copy link to clipboard</button>
             <p id="generatedURL"></p>
         </div>
@@ -249,6 +251,35 @@
                 document.getElementById('result').innerText = 'Please provide a UNIX timestamp in the URL.';
             }
         };
+
+    </script>
+
+    <script src="https://cdn.jsdelivr.net/npm/flatpickr"></script>
+    <script>
+        // Determine the user's locale
+        function getUserLocale() {
+            if (navigator.languages && navigator.languages.length) {
+                return navigator.languages[0];
+            }
+            return navigator.language || 'en';
+        }
+
+        // Map locale to date format and time settings
+        function getLocaleSettings(locale) {
+            const is24Hour = new Intl.DateTimeFormat(locale, { hour: 'numeric' }).resolvedOptions().hourCycle === 'h23';
+            const dateFormat = is24Hour ? "Y-m-d H:i" : "Y-m-d h:i K"; // Adjust format for 24-hour or 12-hour clock
+            return { dateFormat, time_24hr: is24Hour };
+        }
+
+        // Initialize Flatpickr with locale-specific settings
+        const userLocale = getUserLocale();
+        const { dateFormat, time_24hr } = getLocaleSettings(userLocale);
+
+        flatpickr("#datetimePicker", {
+            enableTime: true,
+            dateFormat: dateFormat,
+            time_24hr: time_24hr,
+        });
     </script>
 </body>
 
